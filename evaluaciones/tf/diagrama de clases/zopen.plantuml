@@ -1,0 +1,106 @@
+@startuml MathPlay
+class videogame {
+    +int id_videogame
+    +string nombre_videogame
+    +string rama
+    +string asignatura
+    +int unidad
+    +int score
+    +int aciertos
+    +int errores
+    +int tiempo
+    +int intentos
+}
+
+enum asignatura {
+    aritmetica
+    algebra
+    geometria
+    trigonometria
+    calculo
+}
+
+class temas {
+    +int id_tema
+    +string nombre_tema
+    +int id_asignatura
+
+}
+
+class etiquetas {
+    +int id_tag
+    +string nombre_tag
+}
+
+
+class asignaturas {
+    +getAsignatura()
+}
+
+class estudiante {
+    +string nombre
+    +string apellido
+    +int edad
+    +int id_estudiante
+    +int nivel_educativo
+    +string institucion
+}
+
+class educador {
+    +string nombre
+    +string institucion
+    +int id_educador
+}
+
+class report {
+    +int id_estudiante
+    +int nivel_educativo
+    +int score_Total
+    +int aciertos_Total
+    +int errores_Total
+    +int tiempo_Total
+    +int intentos_Total
+}
+
+class competidores {
+    +int id_estudiante
+}
+
+class competition {
+    +int id_competition
+    +string nombre_competition
+    +int score
+    +int aciertos
+    +int errores
+    +int tiempo
+}
+
+class tablaCompetition {
+    +int id_competition
+    +int id_estudiante
+    +int score
+    +int aciertos
+    +int errores
+    +int tiempo
+} 
+
+videogame "1" -- "1" estudiante
+videogame "1" -- "1" educador
+videogame "1" -- "1" report
+
+asignaturas "1" -- "1" videogame
+
+videogame "1" -- "1..*" competition
+
+competition "1" -- "1..*" competidores
+competition "1" -- "1" tablaCompetition
+
+asignatura "1" - "1" asignaturas
+
+temas "1" -- "1" etiquetas
+
+
+
+
+
+

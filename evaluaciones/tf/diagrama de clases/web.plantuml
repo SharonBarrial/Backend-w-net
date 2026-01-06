@@ -1,0 +1,163 @@
+@startuml fastScooter
+
+class users {
+    +int id
+    -string nombre
+    -string email
+    -string password
+    +char tipo
+    
+    +getTipo ()
+    -RegistroDeUsuarios (nombre: string,
+    email: string, password: string, tipo: char)
+    -LoginDeUsuarios (email: string, password: string)
+    -ActualizarDatos (nombre: string, 
+    email: string, password: string)
+    -EliminarUsuario (id: int)
+}
+
+class enterprises {
+    +int id
+    -string nombre
+    -string email
+    -string RUC
+    -string password
+    +char tipo
+    +getId ()
+    +getTipo ()
+    +getNombre ()
+    +getEmail ()
+    +getRUC ()
+    +getPassword ()
+}
+
+class passersby{
+    +int id
+    -string nombre
+    -string email
+    -string password
+    +char tipo
+    +getId ()
+    +getTipo ()
+    +getNombre ()
+    +getEmail ()
+    +getPassword ()
+}
+
+class scooters {
+    -int id_scooter
+    -string modelo
+    -string marca
+    -string color
+    -long precio
+    -char estado
+
+    +getId ()
+    +getEstado ()
+    +getPrecio ()
+    +getMarca ()
+    +getModelo ()
+    +getColor ()
+    +ReserveScooter (modelo: string, marca: string, 
+    color: string, precio: long)
+}
+
+class rents {
+    -int id_rents
+    -int id_users
+    -int id_scooter
+    -datetime fecha_rentas
+    -datetime fecha_devolucion
+    -char estado
+
+    +getId ()
+    +getEstado ()
+    +getFechaRenta ()
+    +getFechaDevolucion ()
+    +getIdUsuario ()
+    +getIdScooter ()
+    +RegistrarRenta (id_usuario: int, id_scooter: int, 
+    fecha_renta: datetime,  fecha_devolucion: datetime)
+}
+
+class payments {
+    +int id_pagos
+    +int id_alquiler
+    +datetime fecha_pago
+    +float monto
+    +char estado
+
+    +getId ()
+    +getEstado ()
+    +getFechaPago ()
+    +getMonto ()
+    +getIdAlquiler ()
+    +RealizarPago (id_alquiler: int, 
+    fecha_pago: datetime, monto: float) 
+}
+
+class parking {
+    -int id_parking
+    -string nombre
+    -string location
+    -int capacity
+    -int id_scooter
+
+    +getId ()
+    +getCapacity ()
+    +getLocation ()
+    +getNombre ()
+    +getIdScooter ()
+}
+
+enum type_user {
+    empresario
+    cliente
+}
+
+enum state_rent {
+    inicio_de_uso_activo
+    fin_de_uso_inactivo
+}
+
+enum state_payment {
+    pending
+    paid
+}
+
+enum state_reservation {
+    reserved
+    not_reserved
+    reserved_canceled
+}
+
+enum state_scooter {
+    disponible
+    no_disponible
+}
+
+users "1" <|-- "1" enterprises
+users "1" <|-- "1" passersby
+
+
+rents "1..*" -- "1" users
+rents "1..*" -- "1" scooters
+rents  "1..*" - "1" payments
+users "1" - "1..*" type_user
+
+state_scooter "1" - "1" scooters
+scooters "1" - "1" state_reservation
+state_payment "1" -- "1" payments
+state_rent "1" -- "1..*" rents
+
+parking "1" -- "1..*" scooters
+
+
+
+
+
+
+
+
+
+

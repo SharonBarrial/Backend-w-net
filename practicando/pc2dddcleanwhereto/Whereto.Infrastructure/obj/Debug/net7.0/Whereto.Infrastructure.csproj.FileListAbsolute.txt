@@ -1,0 +1,17 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Infrastructure.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Infrastructure.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\bin\Debug\net7.0\Whereto.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto..EB2FF09B.Up2Date
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\refint\Whereto.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\Whereto.Infrastructure.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Infrastructure\obj\Debug\net7.0\ref\Whereto.Infrastructure.dll

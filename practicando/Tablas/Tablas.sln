@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto2.Infrastructure", "Reto2.Infrastructure\Reto2.Infrastructure.csproj", "{F647C19E-59EC-41D2-AD90-A0D0D1716768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto2.Presentation", "Reto2.Presentation\Reto2.Presentation.csproj", "{92C67ADE-5F9B-4A07-A20D-6F654B28ECD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto2.Domain", "Reto2.Domain\Reto2.Domain.csproj", "{DED6172E-04C7-4D0E-A2AA-22B9923CAEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F647C19E-59EC-41D2-AD90-A0D0D1716768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F647C19E-59EC-41D2-AD90-A0D0D1716768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F647C19E-59EC-41D2-AD90-A0D0D1716768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F647C19E-59EC-41D2-AD90-A0D0D1716768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C67ADE-5F9B-4A07-A20D-6F654B28ECD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C67ADE-5F9B-4A07-A20D-6F654B28ECD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C67ADE-5F9B-4A07-A20D-6F654B28ECD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C67ADE-5F9B-4A07-A20D-6F654B28ECD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED6172E-04C7-4D0E-A2AA-22B9923CAEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED6172E-04C7-4D0E-A2AA-22B9923CAEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED6172E-04C7-4D0E-A2AA-22B9923CAEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED6172E-04C7-4D0E-A2AA-22B9923CAEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\bin\Debug\net7.0\Carpio.Infrastructure.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\bin\Debug\net7.0\Carpio.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\bin\Debug\net7.0\Carpio.Infrastructure.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\bin\Debug\net7.0\Carpio.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\bin\Debug\net7.0\Carpio.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.I.E608E6F1.Up2Date
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\refint\Carpio.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\Carpio.Infrastructure.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Infrastructure\obj\Debug\net7.0\ref\Carpio.Infrastructure.dll

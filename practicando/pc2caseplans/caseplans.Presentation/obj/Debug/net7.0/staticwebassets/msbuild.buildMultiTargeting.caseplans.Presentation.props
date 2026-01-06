@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\caseplans.Presentation.props" />
+</Project>

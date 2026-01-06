@@ -1,0 +1,12 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\bin\Debug\net7.0\MediCare.Domain.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\bin\Debug\net7.0\MediCare.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\bin\Debug\net7.0\MediCare.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\refint\MediCare.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\MediCare.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Domain\obj\Debug\net7.0\ref\MediCare.Domain.dll

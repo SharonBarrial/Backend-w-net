@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Booking\Models\Aggregates\" />
+      <Folder Include="Booking\Models\Commands\" />
+      <Folder Include="Booking\Models\Queries\" />
+      <Folder Include="Booking\Models\Response\" />
+      <Folder Include="Booking\Repositories\" />
+      <Folder Include="Booking\Services\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\si730pc2u202114900.Application\si730pc2u202114900.Application.csproj" />
+      <ProjectReference Include="..\si730pc2u202114900.Infrastructure\si730pc2u202114900.Infrastructure.csproj" />
+      <ProjectReference Include="..\si730pc2u202114900.Shared\si730pc2u202114900.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="12.0.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.19" />
+      <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
+    </ItemGroup>
+
+</Project>

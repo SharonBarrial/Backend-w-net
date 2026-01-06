@@ -1,0 +1,396 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Presentation\\Whereto.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Application\\Whereto.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Application\\Whereto.Application.csproj",
+        "projectName": "Whereto.Application",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Application\\Whereto.Application.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj",
+        "projectName": "Whereto.Domain",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj",
+        "projectName": "Whereto.Infrastructure",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Presentation\\Whereto.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Presentation\\Whereto.Presentation.csproj",
+        "projectName": "Whereto.Presentation",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Presentation\\Whereto.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Application\\Whereto.Application.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Application\\Whereto.Application.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Domain\\Whereto.Domain.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Infrastructure\\Whereto.Infrastructure.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj",
+        "projectName": "Whereto.Shared",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\Whereto.Shared.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\pc2dddcleanwhereto\\Whereto.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

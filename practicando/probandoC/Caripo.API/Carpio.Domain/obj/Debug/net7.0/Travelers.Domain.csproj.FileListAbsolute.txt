@@ -1,0 +1,22 @@
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/bin/Debug/net7.0/Travelers.Domain.deps.json
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/bin/Debug/net7.0/Travelers.Domain.dll
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/bin/Debug/net7.0/Travelers.Domain.pdb
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/Travelers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/Travelers.Domain.AssemblyInfoInputs.cache
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/Travelers.Domain.AssemblyInfo.cs
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/Travelers.Domain.csproj.CoreCompileInputs.cache
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/Travelers.Domain.dll
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/refint/Travelers.Domain.dll
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/Travelers.Domain.pdb
+/Users/pietro/Desktop/UPC (Web y Open)/5_Ciclo(Web)/Exams_Web/ASP.NET-Exams/3_b-PC2/2023_1-Prof_Angel/pietro_Travelers_CleanArchitecture-DDD/Travelers.Domain/obj/Debug/net7.0/ref/Travelers.Domain.dll
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\bin\Debug\net7.0\Travelers.Domain.deps.json
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\bin\Debug\net7.0\Travelers.Domain.dll
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\bin\Debug\net7.0\Travelers.Domain.pdb
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\Travelers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\Travelers.Domain.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\Travelers.Domain.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\Travelers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\Travelers.Domain.dll
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\refint\Travelers.Domain.dll
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\Travelers.Domain.pdb
+C:\Users\Sharon\Downloads\webpc2\pietro_Travelers_CleanArchitecture-DDD\pietro_Travelers_CleanArchitecture-DDD\Travelers.Domain\obj\Debug\net7.0\ref\Travelers.Domain.dll

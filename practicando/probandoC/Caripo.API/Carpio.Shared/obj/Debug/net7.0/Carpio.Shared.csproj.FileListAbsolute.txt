@@ -1,0 +1,11 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\bin\Debug\net7.0\Carpio.Shared.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\bin\Debug\net7.0\Carpio.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\bin\Debug\net7.0\Carpio.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\Carpio.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\Carpio.Shared.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\Carpio.Shared.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\Carpio.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\Carpio.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\refint\Carpio.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\Carpio.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\probandoCarpio\Caripo.API\Carpio.Shared\obj\Debug\net7.0\ref\Carpio.Shared.dll

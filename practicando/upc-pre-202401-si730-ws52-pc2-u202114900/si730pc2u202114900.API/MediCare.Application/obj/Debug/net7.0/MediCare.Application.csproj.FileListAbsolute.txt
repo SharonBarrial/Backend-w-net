@@ -1,0 +1,17 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Application.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Application.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Application.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\bin\Debug\net7.0\MediCare.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.B6028E3B.Up2Date
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\refint\MediCare.Application.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\MediCare.Application.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\MediCare.Application\obj\Debug\net7.0\ref\MediCare.Application.dll

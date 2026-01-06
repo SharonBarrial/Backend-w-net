@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Carpio.Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:Carpio.Presentation.HR.Controllers.JoinRequestController">
+            <summary>
+             JoinRequestController class that is responsible for handling the plan requests.
+            </summary>
+        </member>
+        <member name="M:Carpio.Presentation.HR.Controllers.JoinRequestController.#ctor(Carpio.Domain.HR.Services.IJoinRequestCommandService)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Carpio.Presentation.HR.Controllers.JoinRequestController"/> class.
+            </summary>
+            <param name="joinRequestCommandService">The service handling join-requests commands.</param>
+        </member>
+        <member name="M:Carpio.Presentation.HR.Controllers.JoinRequestController.CreatePlan(Carpio.Domain.HR.Models.Commands.CreateJoinRequestCommand)">
+            <summary>
+            Creates a new join-requests based on the provided join request command.
+            </summary>
+            <param name="command">The command object containing all necessary data to create a join request.</param>
+            <response code="201">Returns the newly created join request.</response>
+        </member>
+    </members>
+</doc>

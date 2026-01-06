@@ -1,0 +1,12 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\bin\Debug\net7.0\si730pc2u202114900.Shared.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\bin\Debug\net7.0\si730pc2u202114900.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\bin\Debug\net7.0\si730pc2u202114900.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\refint\si730pc2u202114900.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\si730pc2u202114900.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\upc-pre-202401-si730-ws52-pc2-u202114900\si730pc2u202114900.API\si730pc2u202114900.Shared\obj\Debug\net7.0\ref\si730pc2u202114900.Shared.dll

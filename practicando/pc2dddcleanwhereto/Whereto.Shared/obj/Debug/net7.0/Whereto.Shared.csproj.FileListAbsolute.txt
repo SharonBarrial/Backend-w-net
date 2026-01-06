@@ -1,0 +1,12 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\bin\Debug\net7.0\Whereto.Shared.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\bin\Debug\net7.0\Whereto.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\bin\Debug\net7.0\Whereto.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\refint\Whereto.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\Whereto.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Shared\obj\Debug\net7.0\ref\Whereto.Shared.dll

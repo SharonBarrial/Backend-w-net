@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MediCare.Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:MediCare.Presentation.HR.Controllers.AppointmentController">
+            <summary>
+             AppointmentController class that is responsible for handling the appoinments requests.
+            </summary>
+        </member>
+        <member name="M:MediCare.Presentation.HR.Controllers.AppointmentController.#ctor(MediCare.Domain.HR.Services.IAppoinmentCommandService)">
+            <summary>
+            Initializes a new instance of the <see cref="T:MediCare.Presentation.HR.Controllers.AppointmentController"/> class.
+            </summary>
+            <param name="appoinmentCommandService">The service handling appoinments commands.</param>
+        </member>
+        <member name="M:MediCare.Presentation.HR.Controllers.AppointmentController.CreatePlan(MediCare.Domain.HR.Models.Commands.CreateAppointmentCommand)">
+             <summary>
+             Creates a new appointments based on the provided appointment command.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST api/v1/appointments
+                 {
+                    "patientName": "Your Name",
+                    "doctorName": "Doctor Name",
+                    "email": "Your Email",
+                    "speciality": "speciality",
+                     "appoinmentDate": "2024-06-14",
+                     "appoinmentTime": "10:30:00"
+                 }
+            
+             </remarks>
+             <param name="command">The command object containing all necessary data to create an appoitment.</param>
+             <response code="201">Returns the newly created appointment.</response>
+             <response code="400">If the appointment has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casetravelers.Presentation", "casetravelers.Presentation\casetravelers.Presentation.csproj", "{10399DDA-5C6B-4310-A451-1B617D60F04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casetravelers.Domain", "casetravelers.Domain\casetravelers.Domain.csproj", "{BEB0655D-90A4-4292-BCED-82608906C03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casetravelers.Infrastructure", "casetravelers.Infrastructure\casetravelers.Infrastructure.csproj", "{A305940A-72DC-450B-B50A-1B61CFD8A3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10399DDA-5C6B-4310-A451-1B617D60F04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10399DDA-5C6B-4310-A451-1B617D60F04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10399DDA-5C6B-4310-A451-1B617D60F04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10399DDA-5C6B-4310-A451-1B617D60F04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB0655D-90A4-4292-BCED-82608906C03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB0655D-90A4-4292-BCED-82608906C03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB0655D-90A4-4292-BCED-82608906C03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB0655D-90A4-4292-BCED-82608906C03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A305940A-72DC-450B-B50A-1B61CFD8A3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A305940A-72DC-450B-B50A-1B61CFD8A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A305940A-72DC-450B-B50A-1B61CFD8A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A305940A-72DC-450B-B50A-1B61CFD8A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\bin\Debug\net7.0\Reto2.Domain.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\bin\Debug\net7.0\Reto2.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\bin\Debug\net7.0\Reto2.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\bin\Debug\net7.0\Reto2.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\bin\Debug\net7.0\Reto2.Infrastructure.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Do.843A5015.Up2Date
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\refint\Reto2.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\Reto2.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\Tablas\Reto2.Domain\obj\Debug\net7.0\ref\Reto2.Domain.dll

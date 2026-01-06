@@ -1,0 +1,15 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\bin\Debug\net7.0\casetravelers.Domain.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\bin\Debug\net7.0\casetravelers.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\bin\Debug\net7.0\casetravelers.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\bin\Debug\net7.0\casetravelers.Infrastructure.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\bin\Debug\net7.0\casetravelers.Infrastructure.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetrav.5B033BE4.Up2Date
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\refint\casetravelers.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\casetravelers.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2casetravelers\casetravelers.Domain\obj\Debug\net7.0\ref\casetravelers.Domain.dll

@@ -1,0 +1,22 @@
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\bin\Debug\net7.0\3 Shared.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\bin\Debug\net7.0\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\bin\Debug\net7.0\3 Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\3 Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\3 Shared.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\3 Shared.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\3 Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\refint\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\3 Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\class1\3 Shared\obj\Debug\net7.0\ref\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\bin\Debug\net7.0\3 Shared.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\bin\Debug\net7.0\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\bin\Debug\net7.0\3 Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\3 Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\3 Shared.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\3 Shared.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\3 Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\refint\3 Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\3 Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\no funcionales\class1\3 Shared\obj\Debug\net7.0\ref\3 Shared.dll

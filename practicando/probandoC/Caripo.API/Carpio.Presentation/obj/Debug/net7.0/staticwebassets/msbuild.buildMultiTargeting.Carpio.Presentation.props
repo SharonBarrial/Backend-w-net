@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Carpio.Presentation.props" />
+</Project>

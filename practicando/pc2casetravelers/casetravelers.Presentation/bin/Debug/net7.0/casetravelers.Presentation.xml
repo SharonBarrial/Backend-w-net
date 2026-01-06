@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>casetravelers.Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:pc2casetravelers.Presentation.Mapper.ModelsToRequest">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:pc2casetravelers.Presentation.Mapper.ModelsToRequest.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:pc2casetravelers.Presentation.Publishing.Controllers.DestinationController">
+            <summary>
+            This class is responsible for handling HTTP requests related to Destinations.
+            routing them to the appropriate service methods to process the requests,
+            and returning the results as HTTP responses.
+            </summary>
+        </member>
+        <member name="M:pc2casetravelers.Presentation.Publishing.Controllers.DestinationController.#ctor(casetravelers.Infrastructure.Repositories.IDestinationData,casetravelers.Domain.IDestinationDomain,AutoMapper.IMapper)">
+            <summary>
+            Initializes a new instance of the DestinationController class.
+            </summary>
+            <param name="destinationData"></param>
+            <param name="destinationDomain"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:pc2casetravelers.Presentation.Publishing.Controllers.DestinationController.Post(casetravelers.Presentation.Publishing.Request.DestinationRequest)">
+             <summary>
+             Creates a new destination.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/tutorial
+                 {
+                    "name": "New Destination",
+                    "maxUsers": 10,
+                    "isRisk: 1
+                 }
+            
+             </remarks>
+             <param name="input">The destination to create</param>
+             <returns>A newly created destination</returns>
+             <response code="201">Returns the newly created destination</response>
+             <response code="400">If the destination has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+    </members>
+</doc>

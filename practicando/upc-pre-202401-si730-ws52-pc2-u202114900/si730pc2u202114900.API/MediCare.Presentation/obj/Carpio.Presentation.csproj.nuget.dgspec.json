@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Presentation\\Carpio.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj",
+        "projectName": "Carpio.Domain",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Infrastructure\\Carpio.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Infrastructure\\Carpio.Infrastructure.csproj",
+        "projectName": "Carpio.Infrastructure",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Infrastructure\\Carpio.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Presentation\\Carpio.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Presentation\\Carpio.Presentation.csproj",
+        "projectName": "Carpio.Presentation",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Presentation\\Carpio.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Infrastructure\\Carpio.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Infrastructure\\Carpio.Infrastructure.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Application\\MediCare.Application.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Application\\MediCare.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Application\\MediCare.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Application\\MediCare.Application.csproj",
+        "projectName": "MediCare.Application",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Application\\MediCare.Application.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\Carpio.Domain\\Carpio.Domain.csproj"
+              },
+              "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Shared\\MediCare.Shared.csproj": {
+                "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Shared\\MediCare.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Shared\\MediCare.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Shared\\MediCare.Shared.csproj",
+        "projectName": "MediCare.Shared",
+        "projectPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Shared\\MediCare.Shared.csproj",
+        "packagesPath": "C:\\Users\\Sharon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\MediCare.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

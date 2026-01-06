@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcXsz1KHOdxkXpC9bil8YzLJg6lKhznZ/4nfJTxlzlE/y62veUk3ZRFm+kXa8/S21q/uh+pSM/1lGR84pA91QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sharon\\Downloads\\uni\\web\\clases\\practicando\\upc-pre-202401-si730-ws52-pc2-u202114900\\si730pc2u202114900.API\\si730pc2u202114900.Shared\\si730pc2u202114900.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sharon\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sharon\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sharon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sharon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sharon\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sharon\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sharon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

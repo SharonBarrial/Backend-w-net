@@ -1,0 +1,15 @@
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\bin\Debug\net7.0\Whereto.Domain.deps.json
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\bin\Debug\net7.0\Whereto.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\bin\Debug\net7.0\Whereto.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\bin\Debug\net7.0\Whereto.Shared.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\bin\Debug\net7.0\Whereto.Shared.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.csproj.AssemblyReference.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.AssemblyInfoInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.AssemblyInfo.cs
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto..E780F08A.Up2Date
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\refint\Whereto.Domain.dll
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\Whereto.Domain.pdb
+C:\Users\Sharon\Downloads\uni\web\clases\practicando\pc2dddcleanwhereto\Whereto.Domain\obj\Debug\net7.0\ref\Whereto.Domain.dll
